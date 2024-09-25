@@ -1,0 +1,28 @@
+.food-item {
+  animation: fadeIn 1s;
+}
+
+.container-actions-card {
+  position: relative;
+  background-color: #f3f3f3;
+}
+
+.add {
+  width: 40px;
+  cursor: pointer;
+  border-radius: 50%;
+  margin: 0;
+}
+
+.food-item-counter {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  background-color: white;
+  border-radius: 50px;
+}
+
+.food-item-counter img {
+  width: 30px;
+}

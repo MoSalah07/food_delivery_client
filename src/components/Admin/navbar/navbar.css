@@ -1,0 +1,11 @@
+.navbar {
+  @apply flex justify-between items-center py-2 px-[4%];
+}
+
+.navbar .logo {
+  width: max(10%, 80px);
+}
+
+.navbar .profile {
+  width: 40px;
+}

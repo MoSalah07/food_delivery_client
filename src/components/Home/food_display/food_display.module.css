@@ -1,0 +1,7 @@
+.food_display {
+  @apply mt-8 h-full;
+}
+
+.food_list_display {
+  @apply grid place-items-center grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 xl:grid-cols-5 gap-8;
+}
